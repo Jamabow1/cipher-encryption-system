@@ -1,0 +1,9 @@
+# Ignore compiled files
+*.o
+*.out
+cipher
+*.exe
+
+# Ignore IDE files
+.vscode/
+.idea/
