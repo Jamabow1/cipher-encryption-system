@@ -1,3 +1,4 @@
+
 # Cipher Encryption System (C++)
 
 Object-oriented encryption/decryption system implementing classical ciphers using inheritance and polymorphism.
@@ -31,4 +32,8 @@ This project emphasizes understanding of:
 - Resource management
 - Algorithm implementation without STL shortcuts
 - Clean modular structure
+
+
+# cipher-encryption-system
+Object-oriented C++ encryption system implementing Atbash, Scytale, and Ong ciphers with Rule of Three memory management.
 
